@@ -266,7 +266,13 @@ Butoanele (×3) sunt accesibile prin locașurile laterale ale carcasei. Conector
 
 ## Galerie
 
-> *Imagini disponibile în folderul `/Images`*
+<img width="653" height="455" alt="image" src="https://github.com/user-attachments/assets/0d6f5b60-5c2c-45fb-a187-d6ea14b3ca67" />
+<img width="809" height="540" alt="image" src="https://github.com/user-attachments/assets/85f2c10c-b60a-41dd-9321-0ca004e58729" />
+<img width="887" height="610" alt="image" src="https://github.com/user-attachments/assets/d41584c5-f2f7-450d-882f-9d15de4f34ec" />
+<img width="803" height="471" alt="image" src="https://github.com/user-attachments/assets/4c22e02f-d64b-402c-a0d9-f03ea3e4e572" />
+
+
+
 
 ---
 
@@ -286,8 +292,8 @@ InkTime/
 │   └── PnP_InkTime_front.cpl   # Pick & Place față
 │
 ├── Mechanical/
-│   ├── Exploded_InkTime.step    # Export STEP ansamblu exploded view
-│   └── InkTime_3D.f3z           # Proiect Autodesk Fusion 360
+│   ├── Exploded_Watch3D.zip    # Exported STEP ansamblu exploded view
+│   └── Assembled Watch.f3z           # Proiect Autodesk Fusion 360
 │
 ├── Images/                      # Randări și capturi PCB
 │
